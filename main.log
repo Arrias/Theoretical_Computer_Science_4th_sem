@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  6 JUN 2022 19:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  6 JUN 2022 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -678,22 +678,22 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 240.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 240.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 240.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 240.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8A890F8465341AE0C97DE839E42B26BD;480.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 240.
+(rerunfilecheck)             Checksum: AC565539725B0DF4168518D3C7825A0A;576.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 290.
  ) 
 Here is how much of TeX's memory you used:
- 12526 strings out of 482616
- 174873 string characters out of 5956824
- 428364 words of memory out of 5000000
- 27331 multiletter control sequences out of 15000+600000
+ 12540 strings out of 482616
+ 174986 string characters out of 5956824
+ 429364 words of memory out of 5000000
+ 27332 multiletter control sequences out of 15000+600000
  541099 words of font info for 47 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  34i,8n,31p,796b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -702,17 +702,19 @@ k> </home/arrias/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600p
 k> </home/arrias/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600p
 k> </home/arrias/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (4 pages, 137519 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/symbols/msbm10.pfb>
+Output written on main.pdf (5 pages, 162325 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 56 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 342 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
