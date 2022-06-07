@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  7 JUN 2022 04:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  7 JUN 2022 16:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -679,28 +679,47 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-<diag.png, id=125, 879.285pt x 585.68813pt>
+<diag.png, id=130, 879.285pt x 585.68813pt>
 File: diag.png Graphic file (type png)
 <use diag.png>
-Package pdftex.def Info: diag.png  used on input line 298.
+Package pdftex.def Info: diag.png  used on input line 300.
 (pdftex.def)             Requested size: 527.57507pt x 351.41559pt.
  [5] [6 <./diag.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
+Overfull \hbox (1.90211pt too wide) in paragraph at lines 371--372
+[]\T2A/cmr/bx/n/12 Определение 10.2. $\OML/cmm/m/it/12 DSpace\OT1/cmr/m/n/12 [\
+OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )]$ \T2A/cm
+r/m/it/12 -- класс язы-ков, ко-то-рые при-ни-ма-ют ДМТ, ис-поль-зу-ю-щие $\OML/
+cmm/m/it/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/
+12 n\OT1/cmr/m/n/12 ))$
+ []
 
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
+<hierarchy1.png, id=172, 864.22874pt x 213.04594pt>
+File: hierarchy1.png Graphic file (type png)
+<use hierarchy1.png>
+Package pdftex.def Info: hierarchy1.png  used on input line 426.
+(pdftex.def)             Requested size: 518.54124pt x 127.82854pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+[8 <./hierarchy1.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
+ [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 366.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 366.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 21A309D2DB0CD2EA98179C15016736AF;967.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 366.
+(rerunfilecheck)             Checksum: B2B515FA4BDAFC2B5970DCC27B5EDC6E;1070.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 449.
  ) 
 Here is how much of TeX's memory you used:
- 12569 strings out of 482616
- 175255 string characters out of 5956824
- 429365 words of memory out of 5000000
- 27341 multiletter control sequences out of 15000+600000
+ 12598 strings out of 482616
+ 175558 string characters out of 5956824
+ 429366 words of memory out of 5000000
+ 27347 multiletter control sequences out of 15000+600000
  541099 words of font info for 47 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  34i,8n,31p,796b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -719,10 +738,10 @@ ic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sy
 mbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sym
 bols/msbm10.pfb>
-Output written on main.pdf (7 pages, 314358 bytes).
+Output written on main.pdf (9 pages, 369262 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 87 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 454 PDF objects out of 1000 (max. 8388607)
+ 240 compressed objects within 3 object streams
+ 109 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
