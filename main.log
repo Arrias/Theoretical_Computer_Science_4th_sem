@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  7 JUN 2022 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  7 JUN 2022 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,26 +560,26 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -606,7 +606,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -619,9 +619,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count283
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -665,13 +665,13 @@ LaTeX Info: Redefining \nameref on input line 42.
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -679,13 +679,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-<diag.png, id=130, 879.285pt x 585.68813pt>
+<diag.png, id=134, 879.285pt x 585.68813pt>
 File: diag.png Graphic file (type png)
 <use diag.png>
-Package pdftex.def Info: diag.png  used on input line 300.
+Package pdftex.def Info: diag.png  used on input line 301.
 (pdftex.def)             Requested size: 527.57507pt x 351.41559pt.
  [5] [6 <./diag.png (PNG copy)>]
-Overfull \hbox (1.90211pt too wide) in paragraph at lines 371--372
+Overfull \hbox (1.90211pt too wide) in paragraph at lines 372--373
 []\T2A/cmr/bx/n/12 ќпределение 10.2. $\OML/cmm/m/it/12 DSpace\OT1/cmr/m/n/12 [\
 OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )]$ \T2A/cm
 r/m/it/12 -- класс €зы-ков, ко-то-рые при-ни-ма-ют ƒћ“, ис-поль-зу-ю-щие $\OML/
@@ -694,32 +694,52 @@ cmm/m/it/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/
  []
 
 [7]
-<hierarchy1.png, id=172, 864.22874pt x 213.04594pt>
+<hierarchy1.png, id=176, 864.22874pt x 213.04594pt>
 File: hierarchy1.png Graphic file (type png)
 <use hierarchy1.png>
-Package pdftex.def Info: hierarchy1.png  used on input line 426.
+Package pdftex.def Info: hierarchy1.png  used on input line 427.
 (pdftex.def)             Requested size: 518.54124pt x 127.82854pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 
  []
 
-[8 <./hierarchy1.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
+[8 <./hierarchy1.png (PNG copy)>] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
+
+ []
+
+
+Overfull \hbox (7.7819pt too wide) in paragraph at lines 516--519
+[]$\OML/cmm/m/it/12 A \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 NSPACE\OT1/cmr/m/n/12
+ [\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )]$\T2A/
+cmr/m/n/12 , хо-тим по-ка-зать, что $\OML/cmm/m/it/12 A \OMS/cmsy/m/n/12 2 \OML
+/cmm/m/it/12 coNSpace\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 (\OML/c
+mm/m/it/12 n\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ([]) [] 2 \OML/cmm/m/it/12 NSpa
+ce\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cm
+r/m/n/12 )]$\T2A/cmr/m/n/12 .
+ []
+
+<hierarchy2.png, id=204, 807.015pt x 322.95656pt>
+File: hierarchy2.png Graphic file (type png)
+<use hierarchy2.png>
+Package pdftex.def Info: hierarchy2.png  used on input line 522.
+(pdftex.def)             Requested size: 403.50652pt x 161.47787pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 526.
+[10 <./hierarchy2.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 526.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 526.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 526.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B2B515FA4BDAFC2B5970DCC27B5EDC6E;1070.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 449.
+(rerunfilecheck)             Checksum: 5480F46EA4DB0DB121973476B2BFB703;1173.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 526.
  ) 
 Here is how much of TeX's memory you used:
- 12598 strings out of 482616
- 175558 string characters out of 5956824
- 429366 words of memory out of 5000000
- 27347 multiletter control sequences out of 15000+600000
+ 12626 strings out of 482616
+ 175851 string characters out of 5956824
+ 429373 words of memory out of 5000000
+ 27354 multiletter control sequences out of 15000+600000
  541099 words of font info for 47 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  34i,8n,31p,796b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -738,10 +758,10 @@ ic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sy
 mbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sym
 bols/msbm10.pfb>
-Output written on main.pdf (9 pages, 369262 bytes).
+Output written on main.pdf (10 pages, 455568 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 240 compressed objects within 3 object streams
- 109 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 491 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
+ 129 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
