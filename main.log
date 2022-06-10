@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  8 JUN 2022 02:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.3)  10 JUN 2022 13:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -679,13 +679,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-<diag.png, id=155, 879.285pt x 585.68813pt>
+Underfull \hbox (badness 10000) in paragraph at lines 318--321
+
+ []
+
+[5] [6]
+<diag.png, id=185, 879.285pt x 585.68813pt>
 File: diag.png Graphic file (type png)
 <use diag.png>
-Package pdftex.def Info: diag.png  used on input line 301.
+Package pdftex.def Info: diag.png  used on input line 410.
 (pdftex.def)             Requested size: 527.57507pt x 351.41559pt.
- [5] [6 <./diag.png (PNG copy)>]
-Overfull \hbox (1.90211pt too wide) in paragraph at lines 372--373
+ [7] [8 <./diag.png (PNG copy)>]
+Overfull \hbox (1.90211pt too wide) in paragraph at lines 481--482
 []\T2A/cmr/bx/n/12 ќпределение 10.2. $\OML/cmm/m/it/12 DSpace\OT1/cmr/m/n/12 [\
 OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )]$ \T2A/cm
 r/m/it/12 -- класс €зы-ков, ко-то-рые при-ни-ма-ют ƒћ“, ис-поль-зу-ю-щие $\OML/
@@ -693,24 +698,24 @@ cmm/m/it/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/
 12 n\OT1/cmr/m/n/12 ))$
  []
 
-[7]
-<hierarchy1.png, id=196, 864.22874pt x 213.04594pt>
+[9]
+<hierarchy1.png, id=227, 864.22874pt x 213.04594pt>
 File: hierarchy1.png Graphic file (type png)
 <use hierarchy1.png>
-Package pdftex.def Info: hierarchy1.png  used on input line 427.
+Package pdftex.def Info: hierarchy1.png  used on input line 540.
 (pdftex.def)             Requested size: 518.54124pt x 127.82854pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--431
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
 
  []
 
-[8 <./hierarchy1.png (PNG copy)>] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
+[10 <./hierarchy1.png (PNG copy)>] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 607--609
 
  []
 
 
-Overfull \hbox (7.7819pt too wide) in paragraph at lines 516--519
+Overfull \hbox (7.7819pt too wide) in paragraph at lines 629--632
 []$\OML/cmm/m/it/12 A \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 NSPACE\OT1/cmr/m/n/12
  [\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )]$\T2A/
 cmr/m/n/12 , хо-тим по-ка-зать, что $\OML/cmm/m/it/12 A \OMS/cmsy/m/n/12 2 \OML
@@ -720,13 +725,13 @@ ce\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cm
 r/m/n/12 )]$\T2A/cmr/m/n/12 .
  []
 
-<hierarchy2.png, id=224, 807.015pt x 322.95656pt>
+<hierarchy2.png, id=255, 807.015pt x 322.95656pt>
 File: hierarchy2.png Graphic file (type png)
 <use hierarchy2.png>
-Package pdftex.def Info: hierarchy2.png  used on input line 522.
+Package pdftex.def Info: hierarchy2.png  used on input line 635.
 (pdftex.def)             Requested size: 403.50652pt x 161.47787pt.
-[10 <./hierarchy2.png (PNG copy)>] [11]
-Overfull \hbox (5.43135pt too wide) in paragraph at lines 583--585
+[12] [13 <./hierarchy2.png (PNG copy)>]
+Overfull \hbox (5.43135pt too wide) in paragraph at lines 696--698
 \T2A/cmr/m/n/12 пи-шем ха-рак-те-ри-сти-ку сле-ду-ю-щим об-ра-зом: $\OMS/cmsy/m
 /n/12 9\OML/cmm/m/it/12 x[] \OMS/cmsy/m/n/12 2 f\OT1/cmr/m/n/12 0\OML/cmm/m/it/
 12 ; \OT1/cmr/m/n/12 1\OMS/cmsy/m/n/12 g[]\OML/cmm/m/it/12 ; [] ; x[] \OMS/cmsy
@@ -735,21 +740,21 @@ Overfull \hbox (5.43135pt too wide) in paragraph at lines 583--585
 OT1/cmr/m/n/12 )$
  []
 
-[12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 641.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 641.
+[14] [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 754.
+ [16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 754.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 641.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 641.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 754.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 754.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E12EDB334EA1A6A05E73BC81994D8782;1688.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 641.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 754.
  ) 
 Here is how much of TeX's memory you used:
- 12662 strings out of 482616
- 176182 string characters out of 5956824
- 429373 words of memory out of 5000000
+ 12689 strings out of 482616
+ 176402 string characters out of 5956824
+ 430373 words of memory out of 5000000
  27359 multiletter control sequences out of 15000+600000
  541099 words of font info for 47 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
@@ -758,21 +763,22 @@ Here is how much of TeX's memory you used:
 k> </home/arrias/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600p
 k> </home/arrias/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600p
 k> </home/arrias/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600p
-k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sym
-bols/msbm10.pfb>
-Output written on main.pdf (13 pages, 474170 bytes).
+k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
+msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/m
+sbm10.pfb>
+Output written on main.pdf (16 pages, 495095 bytes).
 PDF statistics:
- 559 PDF objects out of 1000 (max. 8388607)
- 327 compressed objects within 4 object streams
- 160 named destinations out of 1000 (max. 500000)
+ 613 PDF objects out of 1000 (max. 8388607)
+ 369 compressed objects within 4 object streams
+ 187 named destinations out of 1000 (max. 500000)
  152 words of extra memory for PDF output out of 10000 (max. 10000000)
 
